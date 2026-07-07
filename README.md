@@ -82,15 +82,15 @@ A personal portfolio website to showcase projects and skills.
 - Email: buss0907@gmail.com
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pupa-Jamras&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phupha-jamras&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupa-Jamras&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phupha-jamras&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pupa-Jamras&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Phupha-jamras&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 
