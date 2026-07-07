@@ -80,3 +80,6 @@ A personal portfolio website to showcase projects and skills.
 ## 📫 Contact
 
 - Email: buss0907@gmail.com
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pupa.Jamras&show_icons=true&theme=tokyonight)
